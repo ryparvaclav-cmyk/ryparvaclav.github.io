@@ -1,14 +1,12 @@
-
 h1 {
-	color: rgb(255, 0, 0);
-	font-size: 40px;
+    color: rgb(9, 169, 100);
+    font-size: 40px;
     text-align: center;
 }
 
-
 h3 {
-	color: rgb(212, 154, 6);
-	font-size: 25px;
+    color: rgb(9, 169, 100);
+    font-size: 25px;
 }
 
 #navbar {
@@ -26,6 +24,7 @@ h3 {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
+
 #navbar ul {
     display: flex;
     list-style: none;
@@ -40,4 +39,10 @@ h3 {
 #navbar ul li a:hover {
     background-color: #796700;
     border-radius: 5px;
+}
+
+body {
+    background-color: rgba(209, 254, 244, 0.874);
+    background-size: cover;
+    background-repeat: no-repeat;
 }

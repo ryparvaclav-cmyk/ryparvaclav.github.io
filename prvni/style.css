@@ -7,7 +7,7 @@ h1 {
 
 
 h3 {
-	color: rgb(212, 154, 6);
+	color: rgb(255, 0, 0);
 	font-size: 25px;
 }
 
@@ -40,4 +40,10 @@ h3 {
 #navbar ul li a:hover {
     background-color: #796700;
     border-radius: 5px;
+}
+
+body {
+    background-color: rgb(112, 0, 0);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
